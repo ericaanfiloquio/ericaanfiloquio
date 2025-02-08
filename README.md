@@ -31,11 +31,10 @@ QA Engineer.<br>
 
 ### ✨ Soft Skills
 
-- 🤝 Team work + collaboration
+- 🤝 Team work, collaboration
 - 🗣 Effective communication
 - ⏱ Time Management
 - 📊 Problem-solving mindset
-- 🎯 Results-oriented
 - 🔍 Attention to detail and organization
 - 🧠 Critical thinking
 - 🚀 Proactivity
