@@ -1,6 +1,6 @@
 ## Hi, I am Érica!🙋🏾‍♀️
 
-With more than 8 years in the fields of Customer Service, Sales and Administration, I am exploring the IT world focusing on Quality Assurance Engineer.
+With more than 10 years in the fields of Customer Service, Sales and Administration, I am exploring the IT world focusing on Quality Assurance Engineer.
 I found in QA a way to combine my soft skills with my willing to work with meaningfull technological projects. Currently, I am part of an Agile Simulation Project called [Pipoca Agil](https://shorturl.at/ijoGc), as a QA Engineer.
 
 
