@@ -30,7 +30,7 @@ I found in QA a way to combine my soft skills with my willing to work with meani
 
 ### ✨ Soft Skills
 
-- 🤝 Team work, collaboration
+- 🤝 Team work and a reliable professional
 - 🗣 Effective communication
 - ⏱ Time Management
 - 📊 Problem-solving mindset
