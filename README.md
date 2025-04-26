@@ -6,7 +6,7 @@ I found in QA a way to combine my soft skills with my willing to work with meani
 
 ### 📲 Get in touch: 
 - 📩 ericafanfiloquio@gmail.com
-- 🤳 +356 99613218
+- 🤳 +55 (48) 99148 9055
 - 🌐 [My LinkedIn](https://www.linkedin.com/in/ericafernandesanfiloquio/)
 
  
