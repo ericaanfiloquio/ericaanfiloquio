@@ -1,32 +1,27 @@
-## Hi, I am Érica!🙋🏾‍♀️
+## Hi, I'm Érica!🙋🏾‍♀️
 
-With more than 10 years in the fields of Customer Service, Sales and Administration, I am exploring the IT world focusing on Quality Assurance Engineer.
-I found in QA a way to combine my soft skills with my willing to work with meaningfull technological projects. Currently, I am part of an Agile Simulation Project called [Pipoca Agil](https://shorturl.at/ijoGc), as a QA Engineer.
+I'm a Software Quality Assurance professional with a strong focus on continuous learning and process improvement.
+
+🔧 My current QA Skills:
+
+Manual testing: test case creation, execution, and refinement (Jira and TestRail)
+Test automation using Cypress and Postman with JavaScript
+API testing and scripting
+Scrum Agile methodology
+Basic HTML/CSS for better UI/UX understanding
+Understanding of CI with Cypress and GitHub Actions
+Quality-driven
+
+🤓 Volunteer: I'm contributing as a QA volunteer in an Agile Simulation Project called Pipoca Ágil, collaborating with developers and POs to ensure software quality from planning to deployment.
+
+🗺️ Curiosities: I have an adventurous soul: between 2022, 2023 and 2024, I backpacked around Europe, lived in Malta, and currently work remotely for a US-based company. 
+I also had a small Virtual Assistance business where I provided Customer Service and Support to US-based companies.
 
 
 ### 📲 Get in touch: 
 - 📩 ericafanfiloquio@gmail.com
 - 🤳 +55 (48) 99148 9055
 - 🌐 [My LinkedIn](https://www.linkedin.com/in/ericafernandesanfiloquio/)
-
- 
-#### 👉 Some curious facts about me:
-- 🎒 I am a digital nomad and I love slow traveling, where I can immerse myself in the local culture while working remotely
-- ✍ I love writing and sharing some of my texts online
-- 📚 Love reading about philosophy and neuroscience
-- 🐶 Dogs are my favorite 
-
-
-### 🖥 Hard Skills
-
-- 🔧 Functional Software Testing (manual testing)
-- 🖥 Testing Frameworks: Cypress, Postman, Git, GitHub, GitBash, Visual Studio Code, Jira, Notion, Trello
-- 📈 Agile Methodology: Scrum
-- 📐 Tests: White Box, Black Box Testing, Exploratory, Regression
-- 🐞 Bug Tracking & Reporting: identification and documentation of Bugs, Defects and Inconsistencies
-- 🔧 Technologies: JavaScript, TypeScript, Node.js
-- ✅ Quality Assurance & Process Improvement – Critical analysis, identifying enhancements, and ensuring quality throughout the software development lifecycle (SDLC) 
-
 
 ### ✨ Soft Skills
 
@@ -39,3 +34,5 @@ I found in QA a way to combine my soft skills with my willing to work with meani
 - 🚀 Proactivity
 - 💡 Adaptability
 
+## Future goals
+- Keep seeking knowledge in the tech world and become a software quality specialist! 
