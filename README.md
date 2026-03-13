@@ -39,4 +39,4 @@ I also had a small Virtual Assistance business where I provided Customer Service
 - 💡 Adaptability
 
 ### 👩‍💼 Professional Future goals
-- Keep growing as a QA professional.
+- Keep growing as a QA professional, maintaining a continuous learning mindset and collaboration with development teams.
